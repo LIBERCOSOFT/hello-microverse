@@ -18,8 +18,9 @@ Have a working operating system either Windows, Mac OS or Linux.
 Create the directory in which you'll like to clone this project.
 
 ### Install
-Navigate to the created directory above
-Run git clone 'the project's https or ssh'
+Open your Terminal/Command Prompt/Powershell and navigate to the above created directory
+Type `git clone https://github.com/LIBERCOSOFT/hello-microverse.git` and hit enter
+Naviage into the created `hello-microverse` directory and open `index.html` file
 
 ### Usage
 View the HTML document in your preferred browser
